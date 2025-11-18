@@ -5,12 +5,15 @@ In case something goes wrong, consult the sacred texts: https://www.freecodecamp
 
 ## Getting Started
 Step 1: clone the repo
+
 ```git clone https://github.com/wyferic/next.js-website-template.git```
 
 Step 2: install the modules
+
 ```npm install```
 
 Step 3: run the thing
+
 ```npm run dev```
 
 Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
